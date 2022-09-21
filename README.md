@@ -1,4 +1,4 @@
-# Project Sloth MDT 
+# Project Sloth MDT
 
 For all support questions, ask in our Discord support chat. Do not create issues if you need help. Issues are for bug reporting and new features only.
 
@@ -15,11 +15,11 @@ For all support questions, ask in our Discord support chat. Do not create issues
 
 ![](https://i.imgur.com/WVEDLnJ.png)
 
-- **My dispatch calls are not being populated?** - You have not started the dispatch resource before the mdt or renamed the dispatch resource name and not made the necessary changes in mdt to reflect that. 
+- **My dispatch calls are not being populated?** - You have not started the dispatch resource before the mdt or renamed the dispatch resource name and not made the necessary changes in mdt to reflect that.
 
 ## EchoRP MDT QBCore Edit (WIP)
 
-EchoRP MDT Released by Flawws#9999 from Echo RP rewritten and restructured for QBCore. 
+EchoRP MDT Released by Flawws#9999 from Echo RP rewritten and restructured for QBCore.
 This is no longer a fork so we are able to open issues on this repo.
 
 # DMCA Protection Certificate

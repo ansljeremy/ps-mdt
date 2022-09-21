@@ -853,13 +853,13 @@ end)
 
 RegisterNetEvent('mdt:client:callDetach', function(callid, sentData)
     local job = PlayerData.job.name
-    if AllowedJob(job) then 
-        SendNUIMessage({ type = "callDetach", callid = callid, data = tonumber(sentData) }) 
+    if AllowedJob(job) then
+        SendNUIMessage({ type = "callDetach", callid = callid, data = tonumber(sentData) })
     end
 end)
 RegisterNetEvent('mdt:client:callAttach', function(callid, sentData)
     local job = PlayerData.job.name
-    if AllowedJob(job) then 
+    if AllowedJob(job) then
         SendNUIMessage({ type = "callAttach", callid = callid, data = tonumber(sentData) })
     end
 end)
@@ -870,7 +870,7 @@ end)
 
 RegisterNetEvent('mdt:client:dashboardMessage', function(sentData)
     local job = PlayerData.job.name
-    if AllowedJob(job) then 
+    if AllowedJob(job) then
         SendNUIMessage({ type = "dispatchmessage", data = sentData })
     end
 end)
